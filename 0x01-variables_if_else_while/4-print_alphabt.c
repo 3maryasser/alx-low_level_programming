@@ -3,7 +3,7 @@
 
 
 /**
- * main - Print the alphabet in lowercase letters, except for e and q 
+* main - Print the alphabet in lowercase letters, except for e and q
  * Return: Always 0 (Success)
  */
 
